@@ -1,0 +1,21 @@
+html{
+    color: azure;
+}
+
+nav {
+    background-color: rgb(19, 18, 18);
+}
+
+a{
+    color: azure;
+}
+
+li{
+    padding: 5%;
+    display: inline;
+    position: sticky;
+}
+
+body{
+    background-color: rgb(32, 32, 32);
+}
