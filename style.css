@@ -2,8 +2,8 @@ html, a {
     color: azure;
 }
 
-nav {
-    background-color: rgb(19, 18, 18);
+nav, h1 {
+    background-color: rgb(8, 8, 61);
 }
 
 li {
@@ -13,5 +13,5 @@ li {
 }
 
 body {
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(0, 0, 0);
 }
