@@ -23,25 +23,36 @@ ul{
     padding: 1rem;
 }
 
-li {
+.navButton {
+    margin: 1rem;
     padding: 1rem;
     display: inline;
     position: sticky;
 }
 
-li:hover{
+.navButton:hover{
     background-color: rgb(53, 73, 252);
     transition: ease-in-out;
     transition: .5s;
 }
 
+.icons{
+    display: inline;
+    padding-left: 1vw;
+    border-top: 1vw;
+}
 
-.icons img{
+.icons a{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.icons a img{
     width:1.5rem;
     transform: scale(1.5);
 }
 
-.icons img:hover{
+.icons a img:hover{
     width:1.5rem;
     transform: scale(1.5);
 }
