@@ -93,6 +93,13 @@ form{
     width: 50vw;
 }
 
+input, textarea, button {
+    border-radius: 9px;
+    padding: .5vw 1vw;
+    margin: .5vw .5vw;
+    background-color: rgb(184, 184, 184);
+}
+
 table {
     width: 80vw;
     display: inline-table;
