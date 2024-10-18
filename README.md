@@ -60,5 +60,5 @@ For any inquiries, please feel free to reach out:
 
 Email: <shabbeerpetersen10@gmail.com>
 LinkedIn: <https://www.linkedin.com/in/shabbeer-petersen-342868277/>
-GitHub: yourusername
+GitHub: shabbeer10
 Thank you for visiting my portfolio!
