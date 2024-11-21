@@ -5,7 +5,7 @@ const Skills = () => {
   return (
     <section id="skills" className="skills-section">
       <h2>My Tech Skills</h2>
-      <h4 style={{textAlign:"center"}}>click on the icons to travel to the main website of the technology</h4>
+      <h4 style={{textAlign:"center"}}>click on the icons to learn more about the technologies</h4>
       <div className="skills-container">
         {SkillsData.map((skill, index) => (
           <div className="card" key={index}>
