@@ -16,15 +16,15 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 
 - **Responsive Design**: The website is fully responsive and looks great on all devices.
 - **Dark Theme**: A modern dark theme that enhances readability and aesthetic appeal.
+- **Skills Section**: Highlights my acquired skills in technologies with descriptions and links (via icon) to main website of said technology.
 - **Projects Section**: Highlights my projects with descriptions and links.
 - **Contact Form**: A simple contact form to get in touch.
 
 ## Technologies Used
 
-- React.js
-- CSS
-- Babel
-- Webpack (if applicable)
+- React.js (Vite)
+- Lucide icons
+- EmailJS
 
 ## Installation
 

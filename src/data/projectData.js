@@ -1,34 +1,22 @@
 const projectData = [
-    {
-      title: "Project One",
-      description: "A web application that allows users to track their tasks efficiently.",
-      link: "https://example.com/project-one"
-    },
-    {
-      title: "Project Two",
-      description: "*Still in progress*  CRMs help companies access, organize, and make sense of customer data.",
-      link: "https://signup4what.netlify.app/"
-    },
-    {
-      title: "Project Three",
-      description: "A personal blog platform where users can share their thoughts.",
-      link: "https://example.com/project-three"
-    },
-    {
-        title: "Project One",
-        description: "A web application that allows users to track their tasks efficiently.",
-        link: "https://example.com/project-one"
-      },
-      {
-        title: "Project Two",
-        description: "An e-commerce site built with React and Redux.",
-        link: "https://example.com/project-two"
-      },
-      {
-        title: "Project Three",
-        description: "A personal blog platform where users can share their thoughts.",
-        link: "https://example.com/project-three"
-      }
-  ];
+  {
+    title: "SignUp4What",
+    description: "A modern portfolio website built with React and Tailwind CSS. Features a responsive design, smooth animations, and a clean user interface. Showcases my projects and skills in web development.",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=2400",
+    link: "https://example.com/portfolio"
+  },
+  {
+    title: "E-commerce Dashboard",
+    description: "An administrative dashboard for managing online stores. Includes features like inventory management, order tracking, and analytics visualization.",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=2400",
+    link: "https://example.com/dashboard"
+  },
+  {
+    title: "Weather App",
+    description: "A weather application that provides real-time weather updates and forecasts. Built with React and integrates with a weather API for accurate data.",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=2400",
+    link: "https://example.com/weather"
+  }
+];
 
-  export default projectData;
+export default projectData;
