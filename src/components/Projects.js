@@ -10,7 +10,7 @@ const Projects = () => {
     <>
       <section id="projects" className="projects-section">
         <h2>My Projects</h2>
-        <h4 style={{textAlign:"center"}}>click on a card to see more about the project</h4>
+        <p style={{textAlign:"center"}}>click on a card to see more about the project</p>
         <div className="projects-container">
           {projectData.map((project, index) => (
             <ProjectCard
