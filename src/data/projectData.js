@@ -12,14 +12,15 @@ const projectData = [
     description: "An e-commerce website Designed to cater for local businesses",
     longdescription: "A team effort. This website was designed to allow businesses in the less developed areas to reach a global audience, and also exposes would-be buyers to unique and quality products.",
     image: "https://i.postimg.cc/L82PSxCf/shopsphere.png",
-    link: "https://example.com/dashboard"
+    link: "https://shopsphere5.netlify.app/",
+    code: "https://github.com/foreverLoops/shopsphere",
   },
   {
     title: "Healthcare Application",
     description: "A healthcare website designed to make health care and awareness more accessible.",
     longdescription: "A team effort. Our Solution to South Africa's poor service levels in the public healthcare sector. This website allows users to not only have more accessible healthcare, but also allows them to take their health into their own hands.",
     image: "https://i.postimg.cc/pThhC4rN/forevercare.png",
-    link: "https://example.com/weather",
+    link: "https://forevercarenew.netlify.app/",
     code: "https://github.com/foreverLoops/forevercare-react",
   }
 ];
