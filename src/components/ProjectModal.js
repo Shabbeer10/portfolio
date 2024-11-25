@@ -7,7 +7,7 @@ const ProjectModal = ({ project, onClose }) => {
     <div className="modal-overlay" onClick={onClose}>
       <div className="modal-container" onClick={(e) => e.stopPropagation()}>
         <button className="modal-close" onClick={onClose}>
-          <X />
+          <X style={{color:"red"}} />
         </button>
         
         <img
