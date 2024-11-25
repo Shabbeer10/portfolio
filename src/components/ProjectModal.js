@@ -18,7 +18,7 @@ const ProjectModal = ({ project, onClose }) => {
         
         <div className="modal-content">
           <h3 className="modal-title">{project.title}</h3>
-          <p className="modal-description">{project.description}</p>
+          <p className="modal-description">{project.longdescription}</p>
           <div className="modal-actions">
             <a
               href={project.link}
@@ -27,6 +27,14 @@ const ProjectModal = ({ project, onClose }) => {
               className="modal-link"
             >
               Visit Website
+            </a>
+            <a
+              href={project.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="modal-link"
+            >
+              Source Code
             </a>
           </div>
         </div>
