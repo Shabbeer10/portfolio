@@ -29,7 +29,7 @@ const ProjectModal = ({ project, onClose }) => {
               Visit Website
             </a>
             <a
-              href={project.link}
+              href={project.code}
               target="_blank"
               rel="noopener noreferrer"
               className="modal-link"
