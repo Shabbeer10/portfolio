@@ -53,13 +53,14 @@ npm start
 ```
 
 Open your browser and visit <http://localhost:3000> to view the portfolio.
+OR visit the website at <https://shabbeerportfolio.netlify.app/>
 
 ## Contact
 
 For any inquiries, please feel free to reach out:
 
-* Email: <shabbeerpetersen10@gmail.com>
-* LinkedIn: <https://www.linkedin.com/in/* shabbeer-petersen-342868277/>
-* GitHub name: shabbeer10
+- Email: <shabbeerpetersen10@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/shabbeer-petersen-342868277/>
+- GitHub name: shabbeer10
 
 Thank you for visiting my portfolio!
