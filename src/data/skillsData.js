@@ -1,11 +1,5 @@
 const projectData = [
     {
-      title: "HTML",
-      link: "https://developer.mozilla.org/en-US/docs/Glossary/HTML5",
-      description: "VS Code is a lightweight, customizable code editor by Microsoft, popular for its extensions, debugging tools, and support for various programming languages.",
-      image: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-    },
-    {
       title: "JavaScript",
       link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       description: "JavaScript is a versatile language for creating interactive and dynamic web content, both on the client and server sides.",
